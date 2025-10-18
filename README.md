@@ -1,7 +1,11 @@
 <!--## Hi there 👋-->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="Acknowledgment GIF" />
+</p> -->
+
+<p align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/bbefa799786133.5efa9bf3d1b49.gif" alt="Acknowledgment GIF" />
 </p>
 
 <!--
