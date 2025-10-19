@@ -1,6 +1,6 @@
- <p align="center">
+<!-- <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="Acknowledgment GIF" />
-</p> 
+</p>  -->
 
 <div align="center">
   
@@ -14,13 +14,13 @@
 
 I’m a computer engineer and full-stack developer who loves turning ideas into smooth, meaningful digital experiences. I enjoy digging beneath the surface, from what users see to how everything works behind the scenes, and I’m always looking for creative ways to solve real problems and build something that lasts.
 
+* Every project I build starts from scratch, from brainstorming and design to solving real problems with code. 
+* I believe great ideas grow when shared. I love getting involved in tech communities, where I learn, share, and collaborate.
+* I am a mentor and advisor to undergraduate students, helping them bring their ideas to life.
+* I also write articles to share knowledge and encourage creative thinking in tech.
 
-Right now, my biggest passions are:
-
-* **Intelligence:** I'm fascinated by practical **AI/ML** and how we can use it to make our applications genuinely smarter, not just faster.
-* **Trust:** I have a growing obsession with **Security**. It's not enough to deliver a powerful feature; it needs to be safe and dependable. I'm actively exploring threat modeling and secure coding patterns.
-* **Community:** I believe great ideas grow when shared. I love getting involved in tech communities, exchanging knowledge, and collaborating on interesting challenges.
-
+<!-- * I'm fascinated by practical **AI/ML** and how we can use it to make our applications genuinely smarter, not just faster.
+ Right now, my biggest passions are: -->
 ---
 
 ### 🛠️ In My Editor Right Now (My Go-To Gear)
