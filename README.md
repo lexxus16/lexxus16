@@ -35,13 +35,6 @@ These are the tools I trust to turn ideas into functional reality:
 | **DevOps & Cloud** |[![My Skills](https://skillicons.dev/icons?i=git,github,azure,docker,)](https://skillicons.dev) |
 
 ---
-
-### 🤝 Say Hello
-
-
-
-
-
 <!-- <div align="center">
   <img src="https://komarev.com/ghpvc/?username=lexxus16&label=Profile%20Views&color=0e7c99&style=flat" alt="GitHub Profile Views" />
 </div> -->
