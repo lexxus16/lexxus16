@@ -29,10 +29,10 @@ These are the tools I trust to turn ideas into functional reality:
 
 | Category | Key Technologies |
 | :--- | :--- |
-| **Backend** |  |
-| **Frontend** | |
-| **AI** | |
-| **DevOps & Cloud** | |
+| **Backend** | [![My Skills](https://skillicons.dev/icons?i=cs,py,java,dotnet,flask,django,mysql)](https://skillicons.dev) |
+| **Frontend** | [![My Skills](https://skillicons.dev/icons?i=react,html,css,bootstrap)](https://skillicons.dev)|
+| **AI** |[![My Skills](https://skillicons.dev/icons?i=opencv,tensorflow,pytorch,sklearn)](https://skillicons.dev) |
+| **DevOps & Cloud** |[![My Skills](https://skillicons.dev/icons?i=git,github,azure,docker,)](https://skillicons.dev) |
 
 ---
 
