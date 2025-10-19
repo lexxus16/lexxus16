@@ -10,11 +10,10 @@
 
 ---
 
-### 💡 What Makes Me Tick?
+### 💡 Who am I and What I Do?
 
-I'm a **Computer Engineer** by trade, but at heart, I'm just a builder who loves the "A-ha!" moment when a complex problem finally snaps into clean code.
+I’m a computer engineer and full-stack developer who loves turning ideas into smooth, meaningful digital experiences. I enjoy digging beneath the surface, from what users see to how everything works behind the scenes, and I’m always looking for creative ways to solve real problems and build something that lasts.
 
-I work primarily as a **Full-Stack Developer**, which means I get a real kick out of seeing a project through its entire lifecycle—from architecting the back-end to styling the final pixel on the front-end. My foundation is built on the robust and reliable world of **.NET and C#**.
 
 Right now, my biggest passions are:
 
